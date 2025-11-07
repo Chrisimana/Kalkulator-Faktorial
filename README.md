@@ -204,9 +204,9 @@ sequenceDiagram
 | File | Description |
 |------|-------------|
 | `main.py` | Entry point, menginisialisasi dan menjalankan aplikasi |
-| `gui/main_window.py` | Implementasi GUI dengan Tkinter |
-| `models/database.py` | Operasi database SQLite untuk history |
-| `utils/calculator.py` | Logic perhitungan faktorial dan formatting |
+| `main_window.py` | Implementasi GUI dengan Tkinter |
+| `database.py` | Operasi database SQLite untuk history |
+| `calculator.py` | Logic perhitungan faktorial dan formatting |
 
 
 ## 💡 Contoh Penggunaan
